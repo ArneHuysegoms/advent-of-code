@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="566d85c2-3e8a-4180-b121-d0730428b944" name="Default Changelist" comment="" />
+    <list default="true" id="566d85c2-3e8a-4180-b121-d0730428b944" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/Day 1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day 1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day 1/scratch.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lZR4OEVEteAy8p6TXx79AF605X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arne\PycharmProjects\Advent_Of_Code\venv\Day 1" />
       <recent name="C:\Users\Arne\.PyCharmCE2019.3\config\scratches\1" />
     </key>
   </component>
@@ -42,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/1/scratch.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Arne\PycharmProjects\Advent_Of_Code\venv\Day 1\scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
