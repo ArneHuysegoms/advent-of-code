@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566d85c2-3e8a-4180-b121-d0730428b944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Day 1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Day 1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Day 1/scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day 1/Day_1_Part_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day 1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day 2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day 2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day 2/passwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day 2/passwords_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Day 1/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day 1/scratch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +36,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Arne\PycharmProjects\Advent_Of_Code\venv" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Arne\PycharmProjects\Advent_Of_Code\venv\Day 1" />
       <recent name="C:\Users\Arne\.PyCharmCE2019.3\config\scratches\1" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.passwords_part2">
+    <configuration name="Day_1_Part_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advent_Of_Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +56,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches/1" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Day 1" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Arne\PycharmProjects\Advent_Of_Code\venv\Day 1\scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day 1/Day_1_Part_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="passwords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Of_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Day 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day 2/passwords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="passwords_part2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Of_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Day 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day 2/passwords_part2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Of_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Day 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day 1/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Of_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Day 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day 1/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.passwords_part2" />
+        <item itemvalue="Python.passwords" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.scratch (1)" />
+        <item itemvalue="Python.Day_1_Part_2" />
       </list>
     </recent_temporary>
   </component>
@@ -80,38 +177,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1607804404518">
+    <state x="935" y="141" key="#xdebugger.evaluate" timestamp="1607809851330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607804404518" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1607804404518">
+    <state x="935" y="141" key="#xdebugger.evaluate/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809851330" />
+    <state width="1362" height="252" key="GridCell.Tab.0.bottom" timestamp="1607809946029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607804404518" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1607804404517">
+    <state width="1362" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809946029" />
+    <state width="1362" height="252" key="GridCell.Tab.0.center" timestamp="1607809946028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607804404517" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1607804404518">
+    <state width="1362" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809946028" />
+    <state width="1362" height="252" key="GridCell.Tab.0.left" timestamp="1607809946028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607804404518" />
-    <state width="1362" height="109" key="GridCell.Tab.1.bottom" timestamp="1607803728284">
+    <state width="1362" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809946028" />
+    <state width="1362" height="252" key="GridCell.Tab.0.right" timestamp="1607809946029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="109" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607803728284" />
-    <state width="1362" height="109" key="GridCell.Tab.1.center" timestamp="1607803728284">
+    <state width="1362" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809946029" />
+    <state width="1362" height="252" key="GridCell.Tab.1.bottom" timestamp="1607809946029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="109" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607803728284" />
-    <state width="1362" height="109" key="GridCell.Tab.1.left" timestamp="1607803728284">
+    <state width="1362" height="252" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809946029" />
+    <state width="1362" height="252" key="GridCell.Tab.1.center" timestamp="1607809946029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="109" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607803728284" />
-    <state width="1362" height="109" key="GridCell.Tab.1.right" timestamp="1607803728284">
+    <state width="1362" height="252" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809946029" />
+    <state width="1362" height="252" key="GridCell.Tab.1.left" timestamp="1607809946029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="109" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607803728284" />
+    <state width="1362" height="252" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809946029" />
+    <state width="1362" height="252" key="GridCell.Tab.1.right" timestamp="1607809946029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="252" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607809946029" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1607802439482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -120,5 +221,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1607802916380" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Day 2/passwords.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

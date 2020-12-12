@@ -1,4 +1,3 @@
-import csv
 
 def findx(x, list):
     for e in list:
@@ -17,7 +16,7 @@ def findSolution(list):
 
 
 
-with open('../../../../PycharmProjects/Advent_Of_Code/venv/Day 1/input.txt', 'r') as file:
+with open('input.txt', 'r') as file:
     list = []
     for line in file:
         list.append(line.replace('\n', ''))
