@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566d85c2-3e8a-4180-b121-d0730428b944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Day 4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Day 4/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Day 4/passport.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Day 1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day 1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Day 1/Day_1_Part_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day 1/findsum_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Day 1/scratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day 1/findsum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,16 +232,6 @@
           <url>file://$PROJECT_DIR$/venv/Day 2/passwords.py</url>
           <line>19</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/Day 4/passport.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/Day 4/passport.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
