@@ -1,3 +1,5 @@
+import math
+
 def minusone(x):
     x - 1
 
@@ -11,3 +13,5 @@ y = "hioh"
 
 print(y[0:2])
 print(y[-2:])
+
+print(math.ceil(3/2))
